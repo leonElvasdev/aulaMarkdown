@@ -47,7 +47,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## **tabela de comparação**
     UC    |   Nome da UC  | Descrição da UC
---------- | ------------- |-------------------------
+--------- | ------------- |------------------------------------------------------
   UC 1    | Pão de forma  | pegue o 1 pão de forma 
   UC 2    | Pão e manteiga| pegue a manteiga  
   UC 3    | Faca e Pão    | pegue a faca passe na manteiga e depois passe no pão 
