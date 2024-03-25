@@ -12,7 +12,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 - Destaque o conceito geral, tipos de requisitos e considerer exemplos
 - Deverá conter no mínimo 2 imagens
 - Deverá inserir uma tabela comparativa, exemplicando o use case
-- Deverá inserir links para acessar sites de conteúdo sobre o assunto.
+- Deverá inserir links para acessar sites de conteúdo sobre o assunto. 
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
