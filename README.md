@@ -46,11 +46,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ### Um caso de uso é uma descrição escrita de como os usuários realizarão tarefas em seu site . Ele descreve, do ponto de vista do usuário, o comportamento de um sistema ao responder a uma solicitação. Cada caso de uso é representado como uma sequência de etapas simples, começando com o objetivo do usuário e terminando quando esse objetivo for alcançado.
 
 ## **tabela de comparação**
-    UC    |   Nome da UC   | Descrição da UC
- ---------  -------------    ----------------
-UC-1      | Pão de forma   | pegue o 1 pão de forma 
-UC-2      | Pão e manteiga | pegue a manteiga  
-UC-3      | Faca e Pão     | pegue a faca passe na manteiga e depois passe no pão 
+
+UC   | Nome Da UC | Descrição de UC
+---- | ---------- | --------------
+UC-1 | pão | Pegue o copo parar botar o seu suco
+UC-2 | Laranja | A laranja deve ser cortada pela faca para ir pro espremedor
+UC-3 | Faca | A faca deve cortar a laranja no meio
+UC-4 | Espremedor | Pegue uma das metadas da laranja e a bote no espremedor 
 
   <https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao#:~:text=Em%20geral%2C%20um%20requisito%20funcional,confiabilidade%2C%20e%20assim%20por%20diante.>
  
