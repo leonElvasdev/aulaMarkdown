@@ -49,10 +49,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 UC   | Nome Da UC | Descrição de UC
 ---- | ---------- | --------------
-UC-1 | pão | Pegue o copo parar botar o seu suco
-UC-2 | Laranja | A laranja deve ser cortada pela faca para ir pro espremedor
-UC-3 | Faca | A faca deve cortar a laranja no meio
-UC-4 | Espremedor | Pegue uma das metadas da laranja e a bote no espremedor 
-
+UC-1 | pão | Pegue 1 pão 
+UC-2 | manteiga |  pegue a manteiga
+UC-3 | Faca e pão | passe a faca de manteiga e passe no pão 
+UC-4 | comer  | coma o pão com manteiga 
   <https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao#:~:text=Em%20geral%2C%20um%20requisito%20funcional,confiabilidade%2C%20e%20assim%20por%20diante.>
  
