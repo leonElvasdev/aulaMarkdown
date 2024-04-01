@@ -17,12 +17,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-# **pesquisa de Engenharia de requisitos**  
+## **pesquisa de Engenharia de requisitos**  
 
-### Engenharia de Requisitos. É uma disciplina com o conceito de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
+##### Engenharia de Requisitos. É uma disciplina com o conceito de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
 
-## **requisito fucinal e requisito não fucional**
-### Em geral, um requisito funcional é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar. Já um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
+#### **requisito fucinal e requisito não fucional**
+##### Em geral, um requisito funcional é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar. Já um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
 
 ### os tipos de requistidos são:Quais são os tipos de requisitos?
 * Requisitos funcionais.
@@ -43,9 +43,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## **use case**
 
-### Um caso de uso é uma descrição escrita de como os usuários realizarão tarefas em seu site . Ele descreve, do ponto de vista do usuário, o comportamento de um sistema ao responder a uma solicitação. Cada caso de uso é representado como uma sequência de etapas simples, começando com o objetivo do usuário e terminando quando esse objetivo for alcançado.
+##### Um caso de uso é uma descrição escrita de como os usuários realizarão tarefas em seu site . Ele descreve, do ponto de vista do usuário, o comportamento de um sistema ao responder a uma solicitação. Cada caso de uso é representado como uma sequência de etapas simples, começando com o objetivo do usuário e terminando quando esse objetivo for alcançado.
 
-## **tabela de comparação**
+### **tabela de comparação**
 
 UC   | Nome Da UC | Descrição de UC
 ---- | ---------- | --------------
@@ -53,5 +53,9 @@ UC-1 | pão | Pegue 1 pão
 UC-2 | manteiga |  pegue a manteiga
 UC-3 | Faca e pão | passe a faca de manteiga e passe no pão 
 UC-4 | comer  | coma o pão com manteiga 
+ 
+  
+  ### **sites de conteúdo sobre o assunto.** 
+
   <https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao#:~:text=Em%20geral%2C%20um%20requisito%20funcional,confiabilidade%2C%20e%20assim%20por%20diante.>
  
